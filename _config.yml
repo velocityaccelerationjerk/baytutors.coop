@@ -20,8 +20,7 @@
 
 title: Bay Tutors Cooperative
 email: ellis@baytutors.coop
-description: >- # this means to ignore newlines until "baseurl:"
-The website for Bay Tutors Cooperative, a tutoring company run and owned by expert tutors operating in the Bay Area
+description: The website for Bay Tutors Cooperative, a tutoring company run and owned by expert tutors operating in the Bay Area
 url: "https://baytutors.coop" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 github_username:  velocityaccelerationjerk
