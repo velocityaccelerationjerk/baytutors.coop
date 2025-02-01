@@ -4,7 +4,7 @@ title:  "Hi Ellen <3"
 date:   2025-01-31 19:22:49 -0800
 categories: jekyll update
 ---
-Evan and I miss you dearly. The people of Vietnam are blessed to have a disney princess, but we our detective more.
+Evan and I miss you dearly. The people of Vietnam are blessed to have their disney princess, but we need our detective more.
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
